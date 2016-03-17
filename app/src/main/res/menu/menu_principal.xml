@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_bd"
+        android:icon="@drawable/bd32"
+        android:title="configuracion"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_sinc"
+        android:icon="@drawable/sinc32"
+        android:title="configuracion"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_config"
+        android:icon="@drawable/config"
+        android:title="configuracion"
+        app:showAsAction="ifRoom"/>
+
+
+
+</menu>
